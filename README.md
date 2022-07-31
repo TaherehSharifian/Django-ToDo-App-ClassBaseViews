@@ -1,8 +1,11 @@
+
+
 # Django-ToDo-App-ClassBaseViews
 A simple To Do App with Class base views
 
 ## Functionalities:
-- basic CRUD
-- authentication 
-- user permissions
-- class based views
+- Create, Read, Update and Delete todos (Basic CRUD)
+- User login, log out and registration
+- User permissions/restriction
+- Search functionality
+- Class based views
