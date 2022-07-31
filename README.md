@@ -1,4 +1,4 @@
-![ToDO App](/ToDo_App_screenshot.png?raw=true "Simple ToDo App")
+![ToDO App](/ToDoApp_screenshot.png?raw=true "Simple ToDo App")
 
 # Django-ToDo-App-ClassBaseViews
 A simple To Do App with Class base views
