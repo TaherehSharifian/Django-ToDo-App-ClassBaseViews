@@ -93,44 +93,6 @@ input {
     padding: 20px;
 }
 
-/*Handle Classes*/
-
-.handle {
-    display: inline-block;
-    padding: 20px 16px;
-    cursor: grab;
-    user-select: none;
-}
-
-.handle:after,
-.handle:before {
-    display: block;
-    content: "";
-}
-
-.handle:active,
-.handle:active:before,
-.handle:active:after {
-    cursor: grabbing;
-}
-
-.dropArea {
-    background-color: #f1f2f6;
-    color: black;
-    border: #ced6e0 1px solid;
-}
-
-.selectedTask {
-    opacity: 0.6;
-}
-
-
-#add-link {
-    color: #6e0d6e;
-    text-decoration: none;
-    font-size: 42px;
-    text-shadow: 1px 1px #81413b;
-}
 
 #search-add-wrapper {
     display: flex;
